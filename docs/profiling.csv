@@ -1,0 +1,96 @@
+columns,total,nulls,empty_pseudonulls,distinct_count,length_max,pct_nulos
+Nombre Entidad,2791997,0,0,4826,147,0.0
+Nit Entidad,2791997,0,0,4120,13,0.0
+Departamento,2791997,0,51877,34,40,1.86
+Ciudad,2791997,0,522648,852,27,18.72
+Localización,2791997,0,0,1037,66,0.0
+Orden,2791997,0,2,4,20,0.0
+Sector,2791997,0,2,26,50,0.0
+Rama,2791997,0,2,5,20,0.0
+Entidad Centralizada,2791997,0,0,2,15,0.0
+Proceso de Compra,2791997,0,0,2564565,17,0.0
+ID Contrato,2791997,0,0,2791801,19,0.0
+Referencia del Contrato,2791997,1,0,2032378,200,0.0
+Estado Contrato,2791997,0,0,7,12,0.0
+Codigo de Categoria Principal,2791997,0,0,10721,11,0.0
+Descripcion del Proceso,2791997,0,200,1596159,300,0.01
+Tipo de Contrato,2791997,0,78,23,30,0.0
+Modalidad de Contratacion,2791997,0,100,16,59,0.0
+Justificacion Modalidad de Contratacion,2791997,0,353,41,90,0.01
+Fecha de Firma,2791997,0,0,1013,10,0.0
+Fecha de Inicio del Contrato,2791997,49055,0,1206,10,1.76
+Fecha de Fin del Contrato,2791997,1,0,3305,10,0.0
+Condiciones de Entrega,2791997,0,993995,28,58,35.6
+TipoDocProveedor,2791997,0,4043,10,31,0.14
+Documento Proveedor,2791997,25,6017,843353,70,0.22
+Proveedor Adjudicado,2791997,26,490,839557,150,0.02
+Es Grupo,2791997,0,0,2,2,0.0
+Es Pyme,2791997,0,0,2,2,0.0
+Habilita Pago Adelantado,2791997,0,4642,3,11,0.17
+Liquidación,2791997,0,0,2,2,0.0
+Obligación Ambiental,2791997,0,0,2,2,0.0
+Obligaciones Postconsumo,2791997,0,0,2,2,0.0
+Reversion,2791997,0,0,2,2,0.0
+Origen de los Recursos,2791997,0,0,2,16,0.0
+Destino Gasto,2791997,0,13265,3,14,0.48
+Valor del Contrato,2791997,0,0,575278,22,0.0
+Valor de pago adelantado,2791997,0,0,2015,19,0.0
+Valor Facturado,2791997,0,0,465207,19,0.0
+Valor Pendiente de Pago,2791997,0,0,516796,23,0.0
+Valor Pagado,2791997,0,0,414979,19,0.0
+Valor Amortizado,2791997,0,0,589,20,0.0
+Valor Pendiente de Amortizacion,2791997,0,0,1694,21,0.0
+Valor Pendiente de Ejecucion,2791997,0,0,517404,23,0.0
+Saldo CDP,2791997,0,0,183174,22,0.0
+Saldo Vigencia,2791997,0,0,5124,17,0.0
+EsPostConflicto,2791997,0,0,2,2,0.0
+Dias adicionados,2791997,0,0,714,7,0.0
+Puntos del Acuerdo,2791997,0,0,6,38,0.0
+Pilares del Acuerdo,2791997,0,0,20,22,0.0
+URLProceso,2791997,0,0,2561453,150,0.0
+Nombre Representante Legal,2791997,0,23,833246,80,0.0
+Nacionalidad Representante Legal,2791997,12,5059,77,11,0.18
+Domicilio Representante Legal,2791997,95,1774420,273626,500,63.56
+Tipo de Identificación Representante Legal,2791997,0,0,10,31,0.0
+Identificación Representante Legal,2791997,2,193,232516,20,0.01
+Género Representante Legal,2791997,0,516800,4,11,18.51
+Presupuesto General de la Nacion – PGN,2791997,0,0,186450,22,0.0
+Sistema General de Participaciones,2791997,0,0,61179,16,0.0
+Sistema General de Regalías,2791997,0,0,9647,16,0.0
+Recursos Propios (Alcaldías y Gobernaciones),2791997,0,0,248284,19,0.0
+Recursos de Credito,2791997,0,0,4376,16,0.0
+"Otros Recursos (Especie, Privados, Cooperación, Propios Entida",2791997,0,0,166609,18,0.0
+Ultima Actualizacion,2791997,1257134,0,1007,23,45.03
+Codigo Entidad,2791997,0,0,4797,11,0.0
+Codigo Proveedor,2791997,0,0,850125,9,0.0
+Fecha Inicio Liquidacion,2791997,2466301,0,2509,23,88.33
+Fecha Fin Liquidacion,2791997,2466332,0,3049,23,88.34
+Objeto del Contrato,2791997,0,2324,1644184,500,0.08
+Duración del contrato,2791997,0,0,2419,16,0.0
+Nombre del banco,2791997,14,2553610,4881,100,91.46
+Tipo de cuenta,2791997,0,2551109,3,11,91.37
+Número de cuenta,2791997,16,2559756,191732,74,91.68
+El contrato puede ser prorrogado,2791997,0,0,2,2,0.0
+Fecha de notificación de prorrogación,2791997,2600141,0,1650,23,93.13
+Nombre ordenador del gasto,2791997,0,591020,12453,80,21.17
+Tipo de documento Ordenador del gasto,2791997,0,591414,14,31,21.18
+Número de documento Ordenador del gasto,2791997,0,591414,12308,20,21.18
+Nombre supervisor,2791997,0,728744,60036,80,26.1
+Tipo de documento supervisor,2791997,0,729440,15,31,26.13
+Número de documento supervisor,2791997,0,729440,58798,20,26.13
+Nombre Ordenador de Pago,2791997,0,1930814,13627,80,69.16
+Tipo de documento Ordenador de Pago,2791997,0,1930814,12,31,69.16
+Número de documento Ordenador de Pago,2791997,0,1930814,13586,20,69.16
+Documentos Tipo,2791997,0,343,3,11,0.01
+Descripcion Documentos Tipo,2791997,0,2778537,19,100,99.52
+Dirección de ejecución del contrato,2791997,0,3237,7856,255,0.12
+Criterios de sostenibilidad ambiental,2791997,0,2729961,3,11,97.78
+Requisitos ambientales en las especificaciones técnicas,2791997,0,2789577,3,11,99.91
+Criterios ambientales en la evaluación de las ofertas,2791997,0,2789577,3,11,99.91
+Obligaciones contractuales o poscontractuales a nivel ambiental,2791997,0,2789577,3,11,99.91
+Uso de etiquetado ecológico,2791997,0,2789577,3,11,99.91
+Obligaciones posconsumo,2791997,0,227,3,11,0.01
+Fecha inicio obligaciones posconsumo,2791997,2791578,0,356,23,99.98
+Fecha fin obligaciones posconsumo,2791997,2791592,0,291,23,99.99
+Fecha inicio reversión,2791997,2791521,0,358,23,99.98
+Fecha fin reversión,2791997,2791540,0,332,23,99.98
